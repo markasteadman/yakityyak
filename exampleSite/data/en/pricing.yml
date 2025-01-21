@@ -1,7 +1,7 @@
 enable  : true
 topTitle: EASY PRICING
 title   : Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle : single option pricing
 
 item  :
   - name        : BASIC
@@ -12,10 +12,10 @@ item  :
       - item: 10 Email Account
       - item: Script Installer
       - item: 1 GB Storage
-      - item: 10 GB Bandwidth
+      - item: 100 GB Bandwidth
       - item: 24/7 Tech Support
     btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+    btnURL      : https://www.bbc.con
 
   - name        : ADVANCE
     price       : $199
